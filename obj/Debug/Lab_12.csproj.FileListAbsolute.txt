@@ -1,0 +1,11 @@
+G:\Game\Скаченные файлы\Lab_12-master\Lab_12-master\bin\Debug\Lab_12.exe.config
+G:\Game\Скаченные файлы\Lab_12-master\Lab_12-master\bin\Debug\Lab_12.exe
+G:\Game\Скаченные файлы\Lab_12-master\Lab_12-master\bin\Debug\Lab_12.pdb
+G:\Game\Скаченные файлы\Lab_12-master\Lab_12-master\obj\Debug\Lab_12.csproj.AssemblyReference.cache
+G:\Game\Скаченные файлы\Lab_12-master\Lab_12-master\obj\Debug\Lab_12.csproj.SuggestedBindingRedirects.cache
+G:\Game\Скаченные файлы\Lab_12-master\Lab_12-master\obj\Debug\Lab_12.Form1.resources
+G:\Game\Скаченные файлы\Lab_12-master\Lab_12-master\obj\Debug\Lab_12.Properties.Resources.resources
+G:\Game\Скаченные файлы\Lab_12-master\Lab_12-master\obj\Debug\Lab_12.csproj.GenerateResource.cache
+G:\Game\Скаченные файлы\Lab_12-master\Lab_12-master\obj\Debug\Lab_12.csproj.CoreCompileInputs.cache
+G:\Game\Скаченные файлы\Lab_12-master\Lab_12-master\obj\Debug\Lab_12.exe
+G:\Game\Скаченные файлы\Lab_12-master\Lab_12-master\obj\Debug\Lab_12.pdb
